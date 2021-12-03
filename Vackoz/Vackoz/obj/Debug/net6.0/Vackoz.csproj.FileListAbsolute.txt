@@ -1,0 +1,15 @@
+C:\Users\Mackozwt\source\repos\Vackoz\Vackoz\bin\Debug\net6.0\Vackoz.exe
+C:\Users\Mackozwt\source\repos\Vackoz\Vackoz\bin\Debug\net6.0\Vackoz.deps.json
+C:\Users\Mackozwt\source\repos\Vackoz\Vackoz\bin\Debug\net6.0\Vackoz.runtimeconfig.json
+C:\Users\Mackozwt\source\repos\Vackoz\Vackoz\bin\Debug\net6.0\Vackoz.dll
+C:\Users\Mackozwt\source\repos\Vackoz\Vackoz\bin\Debug\net6.0\ref\Vackoz.dll
+C:\Users\Mackozwt\source\repos\Vackoz\Vackoz\bin\Debug\net6.0\Vackoz.pdb
+C:\Users\Mackozwt\source\repos\Vackoz\Vackoz\obj\Debug\net6.0\Vackoz.csproj.AssemblyReference.cache
+C:\Users\Mackozwt\source\repos\Vackoz\Vackoz\obj\Debug\net6.0\Vackoz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mackozwt\source\repos\Vackoz\Vackoz\obj\Debug\net6.0\Vackoz.AssemblyInfoInputs.cache
+C:\Users\Mackozwt\source\repos\Vackoz\Vackoz\obj\Debug\net6.0\Vackoz.AssemblyInfo.cs
+C:\Users\Mackozwt\source\repos\Vackoz\Vackoz\obj\Debug\net6.0\Vackoz.csproj.CoreCompileInputs.cache
+C:\Users\Mackozwt\source\repos\Vackoz\Vackoz\obj\Debug\net6.0\Vackoz.dll
+C:\Users\Mackozwt\source\repos\Vackoz\Vackoz\obj\Debug\net6.0\ref\Vackoz.dll
+C:\Users\Mackozwt\source\repos\Vackoz\Vackoz\obj\Debug\net6.0\Vackoz.pdb
+C:\Users\Mackozwt\source\repos\Vackoz\Vackoz\obj\Debug\net6.0\Vackoz.genruntimeconfig.cache
