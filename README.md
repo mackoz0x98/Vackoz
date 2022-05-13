@@ -1,4 +1,4 @@
 # Vackoz
 Valorant Log Cleaner
 
-Discord: Mackoz#5905
+Discord: yiğit#1337
