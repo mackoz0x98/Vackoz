@@ -16,7 +16,7 @@ namespace Vackoz
         {
             Console.Title = "VACKOZ";
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine(Environment.NewLine + "  [VACKOZ - LOG TEMIZLEYICI (coded by Mackozitrone(Mackoz#5905)]");
+            Console.WriteLine(Environment.NewLine + "  [VACKOZ - LOG TEMIZLEYICI]");
             Console.WriteLine();
             Console.ForegroundColor = ConsoleColor.DarkBlue;
             Program.DeleteFilesAndFoldersRecursively(Program.Local + "\\Riot Games");
